@@ -1,0 +1,3 @@
+[submodule "third_party/liballoc"]
+	path = third_party/liballoc
+	url = https://github.com/plos-clan/liballoc.git
